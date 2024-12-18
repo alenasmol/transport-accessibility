@@ -1,0 +1,6 @@
+start_stop_id,end_stop_id,distance_km
+1,2,0.8
+1,3,1.5
+2,3,0.9
+3,4,2.3
+4,5,1.2
