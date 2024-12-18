@@ -1,0 +1,6 @@
+stop_id,stop_name,latitude,longitude
+1,Central Station,40.748817,-73.985428
+2,Main Street,40.750582,-73.993499
+3,Park Avenue,40.754932,-73.984016
+4,City Hall,40.712776,-74.005974
+5,Union Square,40.735863,-73.991084
